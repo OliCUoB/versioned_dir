@@ -1,3 +1,4 @@
+I'm now going to make a load of changes to this file to test git. I'm glad I made a copy of thiss file now!! :D
 Committing Changes
 
 Let’s take a look again at the output of git status.
@@ -20,7 +21,7 @@ To commit the change, type the command
 
 git commit -a
 
-This will open up your text editor (e.g. nano if you set that earlier), and will place into the text editor the text
+This will open up your poo-poo editor (e.g. nano if you set that earlier), and will place into the text editor the text
 
 
 # Please enter the commit message for your changes. Lines starting
@@ -38,7 +39,7 @@ This will open up your text editor (e.g. nano if you set that earlier), and will
 This text provides a record of everything that has changed, that is now going to be recorded. In this case, the change is that a new file has been added, called README.md. Note that there is space at the top for you to add some text, which will act as a “commit message”. This should be a human-readable description of the change, e.g. please type
 
 Added the file README.md so that we have an initial file to
-play with in Git
+play with in Git --------------------- NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!
 
 # Please enter the commit message for your changes. Lines starting
 # with '#' will be ignored, and an empty message aborts the commit.
@@ -75,3 +76,5 @@ Create a new file called something.md in versioned_dir. Type and add some text i
 Use git status to see if Git has seen that you have added the file.
 
 Next, use git add to add this file to Git, and use git status to check that the file is added. Finally, use git commit -a to commit your change, writing a suitable “commit message”. Once committed, use git status to check that there is nothing left to commit, and that the working directory is clean.
+
+blah blah blah bvhjdslgbfvhjdfhjk
